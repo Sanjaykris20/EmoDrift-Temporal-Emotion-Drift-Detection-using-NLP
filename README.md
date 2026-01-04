@@ -1,4 +1,4 @@
-📘 EmoDrift — Temporal Emotion Drift Detection using NLP
+#📘 EmoDrift — Temporal Emotion Drift Detection using NLP
 
 EmoDrift is an NLP-based project that goes beyond traditional sentiment analysis by detecting temporal emotional trends and mood drift in text data. Rather than just classifying text as positive/negative/neutral, EmoDrift analyzes how sentiment changes over time and identifies points where collective mood significantly shifts.
 
